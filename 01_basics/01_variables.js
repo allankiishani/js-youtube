@@ -18,4 +18,4 @@ because of issue in block scope and functional scope
 
 use "let" instead of var 
 if you declare a variable in js but do not give it any value when you it print it , it will show you "undefined"
-*/
+*/ 
